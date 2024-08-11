@@ -158,3 +158,14 @@ A comprehensive list of Data Structure and algorithms interview questions catego
 - [Top 10 Java String Interview Questions](https://www.java67.com/2015/10/21-string-coding-interview-question-and-answers.html)
 
 
+## Data Structure and Algorithms Cheat Sheets
+![1707477513900](https://github.com/user-attachments/assets/acc9bc58-f70e-4d00-bf24-01fecf5a1048)
+
+Here is another DSA cheat sheet for time and space complxity of popular data structures and algorithms
+
+![0728f0e-1](https://github.com/user-attachments/assets/6cf8ffb5-59ae-4a78-87a5-665bd5a78b7c)
+
+And here is one for Java developers
+
+
+
