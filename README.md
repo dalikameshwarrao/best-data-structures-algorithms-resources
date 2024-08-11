@@ -37,6 +37,9 @@ A collection of best resources to learn Data Structures and Algorithms like arra
 6. AlgoMonster - http://shrsl.com/483tt
 7. LeetCode - https://leetcode.com/
 8. Coursera - https://bit.ly/3BxMXzr
+9. Blind 75: https://lnkd.in/g5wx7QSq
+10. Grind 75: https://lnkd.in/gvZ7_pnp - I focused on this
+11. Practice C++ STL or Java Collections or data structure libraries in the language of your choice its essential for fast coding
 
 ## Best Data Structure and Algorithms Interview Questions and Coding Problems 
 A comprehensive list of Data Structure and algorithms interview questions categorized by topic. These questions are asked multiple times on core Java interview to many developers, both junior developers with 1 to 2 years of experienced, intermediate developers  of 3 to 5 years of experience and senior developers with 5 to 10 yeras of experience. 
@@ -157,6 +160,188 @@ A comprehensive list of Data Structure and algorithms interview questions catego
 - [Top 10 Core Java Interview Questions for Beginners](https://www.java67.com/2018/04/top-10-core-java-interview-questions-answers-for-beginners.html)
 - [Top 10 Java String Interview Questions](https://www.java67.com/2015/10/21-string-coding-interview-question-and-answers.html)
 
+
+
+
+## Coding Interview Patterns
+Here's a list of 30 coding interview patterns, each with one or two example LeetCode problems:
+
+### 1\. **Sliding Window**
+
+-   Problem 1: Minimum Size Subarray Sum
+-   Problem 2: Longest Substring Without Repeating Characters
+
+### 2\. **Two Pointers**
+
+-   Problem 1: 3Sum
+-   Problem 2: Container With Most Water
+
+### 3\. **Fast and Slow Pointers**
+
+-   Problem 1: Linked List Cycle
+-   Problem 2: Middle of the Linked List
+
+### 4\. **Merge Intervals**
+
+-   Problem 1: Merge Intervals
+-   Problem 2: Insert Interval
+
+### 5\. **Cyclic Sort**
+
+-   Problem 1: Find All Numbers Disappeared in an Array
+-   Problem 2: Find the Duplicate Number
+
+### 6\. **In-place Reversal of Linked List**
+
+-   Problem 1: Reverse Linked List
+-   Problem 2: Reverse Nodes in k-Group
+
+### 7\. **Tree BFS**
+
+-   Problem 1: Binary Tree Level Order Traversal
+-   Problem 2: Binary Tree Zigzag Level Order Traversal
+
+### 8\. **Tree DFS**
+
+-   Problem 1: Binary Tree Maximum Path Sum
+-   Problem 2: Path Sum
+
+### 9\. **Topological Sort**
+
+-   Problem 1: Course Schedule
+-   Problem 2: Alien Dictionary
+
+### 10\. **Binary Search**
+
+-   Problem 1: Search in Rotated Sorted Array
+-   Problem 2: Find Minimum in Rotated Sorted Array
+
+### 11\. **DFS with Backtracking**
+
+-   Problem 1: Word Search
+-   Problem 2: Combination Sum
+
+### 12\. **BFS with Queue**
+
+-   Problem 1: Shortest Path in Binary Matrix
+-   Problem 2: Word Ladder
+
+### 13\. **Union Find**
+
+-   Problem 1: Number of Connected Components in an Undirected Graph
+-   Problem 2: Friend Circles
+
+### 14\. **Dynamic Programming (1D)**
+
+-   Problem 1: House Robber
+-   Problem 2: Climbing Stairs
+
+### 15\. **Dynamic Programming (2D)**
+
+-   Problem 1: Longest Common Subsequence
+-   Problem 2: Unique Paths
+
+### 16\. **Greedy Algorithms**
+
+-   Problem 1: Jump Game
+-   Problem 2: Partition Labels
+
+### 17\. **Kadane's Algorithm**
+
+-   Problem 1: Maximum Subarray
+-   Problem 2: Maximum Product Subarray
+
+### 18\. **Matrix Manipulation**
+
+-   Problem 1: Spiral Matrix
+-   Problem 2: Rotate Image
+
+### 19\. **Bit Manipulation**
+
+-   Problem 1: Single Number
+-   Problem 2: Counting Bits
+
+### 20\. **Trie**
+
+-   Problem 1: Implement Trie (Prefix Tree)
+-   Problem 2: Word Search II
+
+### 21\. **Heap / Priority Queue**
+
+-   Problem 1: Merge k Sorted Lists
+-   Problem 2: Top K Frequent Elements
+
+### 22\. **Monotonic Stack**
+
+-   Problem 1: Daily Temperatures
+-   Problem 2: Largest Rectangle in Histogram
+
+### 23\. **Reservoir Sampling**
+
+-   Problem 1: Linked List Random Node
+-   Problem 2: Random Pick Index
+
+### 24\. **Floyd-Warshall Algorithm**
+
+-   Problem 1: Network Delay Time
+-   Problem 2: Find the City With the Smallest Number of Neighbors at a Threshold Distance
+
+### 25\. **Knapsack (0/1)**
+
+-   Problem 1: Partition Equal Subset Sum
+-   Problem 2: Last Stone Weight II
+
+### 26\. **Dijkstra's Algorithm**
+
+-   Problem 1: Path With Minimum Effort
+-   Problem 2: Cheapest Flights Within K Stops
+
+### 27\. **Bellman-Ford Algorithm**
+
+-   Problem 1: Network Delay Time
+-   Problem 2: Cheapest Flights Within K Stops
+
+### 28\. **Zigzag Traversal**
+
+-   Problem 1: Binary Tree Zigzag Level Order Traversal
+-   Problem 2: Diagonal Traverse
+
+### 29\. **Longest Increasing Subsequence**
+
+-   Problem 1: Longest Increasing Subsequence
+-   Problem 2: Russian Doll Envelopes
+
+### 30\. **Top K Elements**
+
+-   Problem 1: Kth Largest Element in an Array
+-   Problem 2: Top K Frequent Elements
+
+These patterns and problems will help you identify and solve common coding interview challenges.
+
+![Fi01k0IWYAAcVFh](https://github.com/user-attachments/assets/7aad9e29-39d2-4f21-92dd-acd2fe84655d)
+
+
+## Dynamic Programming Patterns
+1. Fibonacci Sequence
+2. Kadane's Algorithm
+3. 0/1 Knapsack
+4. Unbounded Knapsack
+5. Longest Common Subsequence (LCS)
+6. Longest Increasing Subsequence (LIS)
+7. Palindromic Subsequence
+8. Edit Distance
+9. Subset Sum
+10. String Partition
+11. Catalan Numbers
+12. Matrix Chain Multiplication
+13. Count Distinct Ways
+14. DP on Grids
+15. DP on Trees
+16. DP on Graphs
+17. Digit DP
+18. Bitmasking DP
+19. Probability DP
+20. State Machine DP
 
 ## Data Structure and Algorithms Cheat Sheets
 ![1707477513900](https://github.com/user-attachments/assets/acc9bc58-f70e-4d00-bf24-01fecf5a1048)
