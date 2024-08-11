@@ -1,29 +1,42 @@
-# best-data-structures-algorithms-resources
+# Best Data Structures, Algorithms and Coding Interview Resources
 A collection of best resources to learn Data Structures and Algorithms like array, linked list, binary tree, stack, queue, graph, heap, searching and sorting algorithms like quicksort and merge sort for coding  Interviews
 
 
 ## Best Data Structures and Algorithms Courses
-- [Grokking the System Design Interview](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview)
-- [Java Interview Guide: 200+ Interview Questions and Answers](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-interview-questions-and-answers%2F)
-- [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
-- [Grokking the Object-Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)
-- [Java Multithreading for Senior Engineering Interviews](https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews?affiliate_id=5073518643380224)
-- [200+ SQL Interview Questions](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
-- [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
-- [Data Structure and Algorithms Analysis - Job Interview](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structure-and-algorithms-analysis%2F)
-- [Spring and Spring Boot Interview Guide](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
-- [Java Multithreading & Concurrency - Interview Practice Exams](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
+1. Data Structures Deep Dive Using Java - https://bit.ly/3QH8Y2R
+2. DSA by Andrei Negaoie - https://bit.ly/3JOjH8v
+3. Coding Patterns on AlgoMonster - http://shrsl.com/483tt
+3. Data Structures - Part 1 and 2 - https://bit.ly/3w5uDtU
+4. Algorithms and Data Structures in Python - https://bit.ly/3JRhqKK
+5. CodeCademy - https://bit.ly/codecademyhome
+6. Data Structure for interviews -  http://bit.ly/data-structures-algorithms-coding-interview
+7. Data Structures for Coding Interviews in Java [Educative] - https://bit.ly/3GVhWo3
+8. Master the Coding Interview: Data Structures + Algorithms [ZTM] - https://bit.ly/3JOjH8v
+9. Learn Complex Data Structures [Codecademy] - https://bit.ly/34DT2MJ
+
+## Free Data Structure courses
+1. Data Structure - Part I  - https://bit.ly/3l4VxMj
+2. Algorithms Part 1 - https://bit.ly/3P45Gqi
+3. Visual Intro to Algorithms  - https://bit.ly/3NcwIKx
+4. Graph Theory Algorithms - http://bit.ly/2NAbaIR
+5. more - https://bit.ly/3w2YQJY
+
 
 ## Best Data Structures and Algorithms Books
 - [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/dp/098478280X/?tag=javamysqlanta-20)
-- [Grokking the Java Interview bundle](https://javinpaul.gumroad.com/l/java-interview-bundle?offer_code=friends20)
-- [Grokking the Spring Boot Interview on Gumroad](https://gumroad.com/l/hrUXKY)
-- [Java Programming Interview Exposed By Markham](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)
 - [Programming Interviews Exposed](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20)
 - [Daily Coding Problem: Get Exceptionally Good](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/?tag=javamysqlanta-20)
 
 
 ## Best Websites to Practice Data Structures and Algorithms
+1. Udemy - https://bit.ly/3QH8Y2R
+2. ZTM Academy - https://bit.ly/3JOjH8v
+3. Educative - https://bit.ly/3JOjH8v
+4. CodeCademy - https://bit.ly/codecademyhome
+5. DesignGurus.io - https://bit.ly/4cOygYF
+6. AlgoMonster - http://shrsl.com/483tt
+7. LeetCode - https://leetcode.com/
+8. Coursera - https://bit.ly/3BxMXzr
 
 ## Best Data Structure and Algorithms Interview Questions and Coding Problems 
 A comprehensive list of Data Structure and algorithms interview questions categorized by topic. These questions are asked multiple times on core Java interview to many developers, both junior developers with 1 to 2 years of experienced, intermediate developers  of 3 to 5 years of experience and senior developers with 5 to 10 yeras of experience. 
